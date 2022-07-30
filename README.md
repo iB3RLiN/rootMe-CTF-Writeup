@@ -46,12 +46,14 @@ now we got user flag
 
 Task4 - Privilege escalation
         Q1 Search for files with SUID permission, which file is weird?
-        
-        ![PrevPy](https://user-images.githubusercontent.com/73380139/181881517-298d51d6-a3eb-4ca9-a8d3-837a6948d3cc.png)
+![PrevPy](https://user-images.githubusercontent.com/73380139/181883176-d7cee3a9-0ca3-4b99-a3df-1decba52396f.png)
+
         
         Q3 root.txt
         
-        ![rootFlag](https://user-images.githubusercontent.com/73380139/181881998-a035a505-059f-4092-9424-e435523f7bdd.png)
+![rootFlag](https://user-images.githubusercontent.com/73380139/181883295-6d8ad989-e62c-4de3-ae28-a9de4d230a25.png)
+
+        
 
 
 
